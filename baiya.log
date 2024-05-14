@@ -1,0 +1,244 @@
+2024-05-11 10:56:39 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-05-11 10:56:39 INFO:  * Restarting with stat
+2024-05-11 10:56:39 WARNING:  * Debugger is active!
+2024-05-11 10:56:39 INFO:  * Debugger PIN: 733-346-888
+2024-05-11 10:56:39 INFO: Starting continuous audio capture...
+2024-05-11 10:56:40 INFO: Starting continuous audio capture...
+2024-05-11 10:56:45 INFO: 127.0.0.1 - - [11/May/2024 10:56:45] "GET / HTTP/1.1" 200 -
+2024-05-11 10:57:07 INFO: 127.0.0.1 - - [11/May/2024 10:57:07] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:57:10 INFO: Audio segment saved: audio/20240511-105710.wav
+2024-05-11 10:57:10 INFO: Transcribing audio: audio/20240511-105710.wav
+2024-05-11 10:57:10 INFO: Audio segment saved: audio/20240511-105710.wav
+2024-05-11 10:57:10 INFO: Transcribing audio: audio/20240511-105710.wav
+2024-05-11 10:57:13 ERROR: Error transcribing audio/20240511-105710.wav: 
+2024-05-11 10:57:14 ERROR: Error transcribing audio/20240511-105710.wav: 
+2024-05-11 10:57:17 INFO: 127.0.0.1 - - [11/May/2024 10:57:17] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:57:27 INFO: 127.0.0.1 - - [11/May/2024 10:57:27] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:57:37 INFO: 127.0.0.1 - - [11/May/2024 10:57:37] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:57:40 INFO: Audio segment saved: audio/20240511-105740.wav
+2024-05-11 10:57:40 INFO: Transcribing audio: audio/20240511-105740.wav
+2024-05-11 10:57:40 INFO: Audio segment saved: audio/20240511-105740.wav
+2024-05-11 10:57:40 INFO: Transcribing audio: audio/20240511-105740.wav
+2024-05-11 10:57:44 INFO: Transcribed to text: I'll tell you what I do need some help with this other things when that gets done maybe
+2024-05-11 10:57:44 INFO: Transcribed to text: I'll tell you what I do need some help with this other things when that gets done maybe
+2024-05-11 10:57:44 INFO: Transcription saved: text/20240511-105740.txt
+2024-05-11 10:57:44 INFO: Transcription saved: text/20240511-105740.txt
+2024-05-11 10:57:47 INFO: 127.0.0.1 - - [11/May/2024 10:57:47] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:57:57 INFO: 127.0.0.1 - - [11/May/2024 10:57:57] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:58:07 INFO: 127.0.0.1 - - [11/May/2024 10:58:07] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:58:10 INFO: Audio segment saved: audio/20240511-105810.wav
+2024-05-11 10:58:10 INFO: Transcribing audio: audio/20240511-105810.wav
+2024-05-11 10:58:10 INFO: Audio segment saved: audio/20240511-105810.wav
+2024-05-11 10:58:10 INFO: Transcribing audio: audio/20240511-105810.wav
+2024-05-11 10:58:17 ERROR: Error transcribing audio/20240511-105810.wav: 
+2024-05-11 10:58:17 INFO: 127.0.0.1 - - [11/May/2024 10:58:17] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:58:20 ERROR: Error transcribing audio/20240511-105810.wav: 
+2024-05-11 10:58:27 INFO: 127.0.0.1 - - [11/May/2024 10:58:27] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:58:37 INFO: 127.0.0.1 - - [11/May/2024 10:58:37] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:58:40 INFO: Audio segment saved: audio/20240511-105840.wav
+2024-05-11 10:58:40 INFO: Transcribing audio: audio/20240511-105840.wav
+2024-05-11 10:58:40 INFO: Audio segment saved: audio/20240511-105840.wav
+2024-05-11 10:58:40 INFO: Transcribing audio: audio/20240511-105840.wav
+2024-05-11 10:58:46 INFO: Transcribed to text: it's good why are you not saving the recording what is going on like beats help me help me
+2024-05-11 10:58:46 INFO: Transcription saved: text/20240511-105840.txt
+2024-05-11 10:58:47 INFO: 127.0.0.1 - - [11/May/2024 10:58:47] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:58:47 INFO: Transcribed to text: it's good why are you not saving the recording what is going on like please help me
+2024-05-11 10:58:47 INFO: Transcription saved: text/20240511-105840.txt
+2024-05-11 10:58:57 INFO: 127.0.0.1 - - [11/May/2024 10:58:57] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:59:07 INFO: 127.0.0.1 - - [11/May/2024 10:59:07] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:59:10 INFO: Audio segment saved: audio/20240511-105910.wav
+2024-05-11 10:59:10 INFO: Transcribing audio: audio/20240511-105910.wav
+2024-05-11 10:59:10 INFO: Audio segment saved: audio/20240511-105910.wav
+2024-05-11 10:59:10 INFO: Transcribing audio: audio/20240511-105910.wav
+2024-05-11 10:59:13 ERROR: Error transcribing audio/20240511-105910.wav: 
+2024-05-11 10:59:13 ERROR: Error transcribing audio/20240511-105910.wav: 
+2024-05-11 10:59:17 INFO: 127.0.0.1 - - [11/May/2024 10:59:17] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:59:27 INFO: 127.0.0.1 - - [11/May/2024 10:59:27] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:59:37 INFO: 127.0.0.1 - - [11/May/2024 10:59:37] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:59:40 INFO: Audio segment saved: audio/20240511-105940.wav
+2024-05-11 10:59:40 INFO: Transcribing audio: audio/20240511-105940.wav
+2024-05-11 10:59:40 INFO: Audio segment saved: audio/20240511-105940.wav
+2024-05-11 10:59:40 INFO: Transcribing audio: audio/20240511-105940.wav
+2024-05-11 10:59:41 ERROR: Error transcribing audio/20240511-105940.wav: 
+2024-05-11 10:59:41 ERROR: Error transcribing audio/20240511-105940.wav: 
+2024-05-11 10:59:47 INFO: 127.0.0.1 - - [11/May/2024 10:59:47] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 10:59:48 INFO: 127.0.0.1 - - [11/May/2024 10:59:48] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:02 INFO: 127.0.0.1 - - [11/May/2024 11:00:02] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:03 INFO: 127.0.0.1 - - [11/May/2024 11:00:03] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:03 INFO: 127.0.0.1 - - [11/May/2024 11:00:03] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:04 INFO: 127.0.0.1 - - [11/May/2024 11:00:04] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:04 INFO: 127.0.0.1 - - [11/May/2024 11:00:04] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:04 INFO: 127.0.0.1 - - [11/May/2024 11:00:04] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:04 INFO: 127.0.0.1 - - [11/May/2024 11:00:04] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-05-11 11:00:10 INFO: Audio segment saved: audio/20240511-110010.wav
+2024-05-11 11:00:10 INFO: Transcribing audio: audio/20240511-110010.wav
+2024-05-11 11:00:10 INFO: Audio segment saved: audio/20240511-110010.wav
+2024-05-11 11:00:10 INFO: Transcribing audio: audio/20240511-110010.wav
+2024-05-11 11:00:10 ERROR: Error transcribing audio/20240511-110010.wav: 
+2024-05-11 11:00:11 ERROR: Error transcribing audio/20240511-110010.wav: 
+2024-05-11 11:00:40 INFO: Audio segment saved: audio/20240511-110040.wav
+2024-05-11 11:00:40 INFO: Transcribing audio: audio/20240511-110040.wav
+2024-05-11 11:00:40 INFO: Audio segment saved: audio/20240511-110040.wav
+2024-05-11 11:00:40 INFO: Transcribing audio: audio/20240511-110040.wav
+2024-05-11 11:00:42 ERROR: Error transcribing audio/20240511-110040.wav: 
+2024-05-11 11:00:43 ERROR: Error transcribing audio/20240511-110040.wav: 
+2024-05-11 11:05:18 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-05-11 11:05:18 INFO:  * Restarting with stat
+2024-05-11 11:05:19 WARNING:  * Debugger is active!
+2024-05-11 11:05:19 INFO:  * Debugger PIN: 733-346-888
+2024-05-11 11:05:26 INFO: 127.0.0.1 - - [11/May/2024 11:05:26] "GET / HTTP/1.1" 200 -
+2024-05-11 11:05:29 INFO: 127.0.0.1 - - [11/May/2024 11:05:29] "POST /control HTTP/1.1" 200 -
+2024-05-11 11:05:34 INFO: 127.0.0.1 - - [11/May/2024 11:05:34] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:05:39 INFO: 127.0.0.1 - - [11/May/2024 11:05:39] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:05:44 INFO: 127.0.0.1 - - [11/May/2024 11:05:44] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:05:49 INFO: 127.0.0.1 - - [11/May/2024 11:05:49] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:05:54 INFO: 127.0.0.1 - - [11/May/2024 11:05:54] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:05:59 INFO: Audio segment saved: audio/20240511-110559.wav
+2024-05-11 11:05:59 INFO: 127.0.0.1 - - [11/May/2024 11:05:59] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:04 INFO: 127.0.0.1 - - [11/May/2024 11:06:04] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:04 INFO: Transcribed to text: hello monkey
+2024-05-11 11:06:09 INFO: 127.0.0.1 - - [11/May/2024 11:06:09] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:14 INFO: 127.0.0.1 - - [11/May/2024 11:06:14] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:19 INFO: 127.0.0.1 - - [11/May/2024 11:06:19] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:24 INFO: 127.0.0.1 - - [11/May/2024 11:06:24] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:29 INFO: 127.0.0.1 - - [11/May/2024 11:06:29] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:34 INFO: 127.0.0.1 - - [11/May/2024 11:06:34] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:34 INFO: Audio segment saved: audio/20240511-110634.wav
+2024-05-11 11:06:39 INFO: 127.0.0.1 - - [11/May/2024 11:06:39] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:44 INFO: 127.0.0.1 - - [11/May/2024 11:06:44] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:45 INFO: Transcribed to text: hello Monkeys hello monkeys
+2024-05-11 11:06:49 INFO: 127.0.0.1 - - [11/May/2024 11:06:49] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:54 INFO: 127.0.0.1 - - [11/May/2024 11:06:54] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:06:59 INFO: 127.0.0.1 - - [11/May/2024 11:06:59] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:04 INFO: 127.0.0.1 - - [11/May/2024 11:07:04] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:09 INFO: 127.0.0.1 - - [11/May/2024 11:07:09] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:14 INFO: 127.0.0.1 - - [11/May/2024 11:07:14] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:15 INFO: Audio segment saved: audio/20240511-110715.wav
+2024-05-11 11:07:19 INFO: 127.0.0.1 - - [11/May/2024 11:07:19] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:22 ERROR: Error transcribing audio/20240511-110715.wav: 
+2024-05-11 11:07:24 INFO: 127.0.0.1 - - [11/May/2024 11:07:24] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:29 INFO: 127.0.0.1 - - [11/May/2024 11:07:29] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:34 INFO: 127.0.0.1 - - [11/May/2024 11:07:34] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:39 INFO: 127.0.0.1 - - [11/May/2024 11:07:39] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:44 INFO: 127.0.0.1 - - [11/May/2024 11:07:44] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:49 INFO: 127.0.0.1 - - [11/May/2024 11:07:49] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:52 INFO: Audio segment saved: audio/20240511-110752.wav
+2024-05-11 11:07:54 INFO: 127.0.0.1 - - [11/May/2024 11:07:54] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:59 INFO: 127.0.0.1 - - [11/May/2024 11:07:59] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:07:59 ERROR: Error transcribing audio/20240511-110752.wav: 
+2024-05-11 11:08:04 INFO: 127.0.0.1 - - [11/May/2024 11:08:04] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:09 INFO: 127.0.0.1 - - [11/May/2024 11:08:09] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:14 INFO: 127.0.0.1 - - [11/May/2024 11:08:14] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:19 INFO: 127.0.0.1 - - [11/May/2024 11:08:19] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:24 INFO: 127.0.0.1 - - [11/May/2024 11:08:24] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:29 INFO: Audio segment saved: audio/20240511-110829.wav
+2024-05-11 11:08:29 INFO: 127.0.0.1 - - [11/May/2024 11:08:29] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:34 INFO: 127.0.0.1 - - [11/May/2024 11:08:34] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:38 INFO: Transcribed to text: for some time and I feel better it's been raining for 9 days but lines blur when my mind
+2024-05-11 11:08:39 INFO: 127.0.0.1 - - [11/May/2024 11:08:39] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:44 INFO: 127.0.0.1 - - [11/May/2024 11:08:44] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:49 INFO: 127.0.0.1 - - [11/May/2024 11:08:49] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:54 INFO: 127.0.0.1 - - [11/May/2024 11:08:54] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:08:59 INFO: 127.0.0.1 - - [11/May/2024 11:08:59] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:04 INFO: 127.0.0.1 - - [11/May/2024 11:09:04] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:08 INFO: Audio segment saved: audio/20240511-110908.wav
+2024-05-11 11:09:09 INFO: 127.0.0.1 - - [11/May/2024 11:09:09] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:13 ERROR: Error transcribing audio/20240511-110908.wav: 
+2024-05-11 11:09:14 INFO: 127.0.0.1 - - [11/May/2024 11:09:14] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:19 INFO: 127.0.0.1 - - [11/May/2024 11:09:19] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:24 INFO: 127.0.0.1 - - [11/May/2024 11:09:24] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:29 INFO: 127.0.0.1 - - [11/May/2024 11:09:29] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:34 INFO: 127.0.0.1 - - [11/May/2024 11:09:34] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:39 INFO: 127.0.0.1 - - [11/May/2024 11:09:39] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:43 INFO: Audio segment saved: audio/20240511-110943.wav
+2024-05-11 11:09:44 INFO: 127.0.0.1 - - [11/May/2024 11:09:44] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:49 INFO: Transcribed to text: singing it's been raining for 9 Days
+2024-05-11 11:09:49 INFO: 127.0.0.1 - - [11/May/2024 11:09:49] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:54 INFO: 127.0.0.1 - - [11/May/2024 11:09:54] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:09:59 INFO: 127.0.0.1 - - [11/May/2024 11:09:59] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:04 INFO: 127.0.0.1 - - [11/May/2024 11:10:04] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:09 INFO: 127.0.0.1 - - [11/May/2024 11:10:09] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:14 INFO: 127.0.0.1 - - [11/May/2024 11:10:14] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:19 INFO: Audio segment saved: audio/20240511-111018.wav
+2024-05-11 11:10:19 INFO: 127.0.0.1 - - [11/May/2024 11:10:19] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:24 INFO: 127.0.0.1 - - [11/May/2024 11:10:24] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:27 INFO: Transcribed to text: singing 49 days parapara paradise parapara paradise para para paradise Hara
+2024-05-11 11:10:29 INFO: 127.0.0.1 - - [11/May/2024 11:10:29] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:34 INFO: 127.0.0.1 - - [11/May/2024 11:10:34] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:39 INFO: 127.0.0.1 - - [11/May/2024 11:10:39] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 11:10:42 INFO: 127.0.0.1 - - [11/May/2024 11:10:42] "POST /control HTTP/1.1" 200 -
+2024-05-11 12:00:55 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-05-11 12:00:55 INFO:  * Restarting with stat
+2024-05-11 12:00:56 WARNING:  * Debugger is active!
+2024-05-11 12:00:56 INFO:  * Debugger PIN: 733-346-888
+2024-05-11 12:02:09 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-05-11 12:02:09 INFO:  * Restarting with stat
+2024-05-11 12:02:10 WARNING:  * Debugger is active!
+2024-05-11 12:02:10 INFO:  * Debugger PIN: 733-346-888
+2024-05-11 12:02:24 INFO: 127.0.0.1 - - [11/May/2024 12:02:24] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2024-05-11 12:02:30 INFO: 127.0.0.1 - - [11/May/2024 12:02:30] "GET / HTTP/1.1" 200 -
+2024-05-11 12:02:33 INFO: 127.0.0.1 - - [11/May/2024 12:02:33] "POST /control HTTP/1.1" 200 -
+2024-05-11 12:02:38 INFO: 127.0.0.1 - - [11/May/2024 12:02:38] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:02:43 INFO: 127.0.0.1 - - [11/May/2024 12:02:43] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:02:48 INFO: 127.0.0.1 - - [11/May/2024 12:02:48] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:02:53 INFO: 127.0.0.1 - - [11/May/2024 12:02:53] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:02:58 INFO: 127.0.0.1 - - [11/May/2024 12:02:58] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:03 INFO: Audio segment saved: audio/20240511-120303.wav
+2024-05-11 12:03:03 INFO: 127.0.0.1 - - [11/May/2024 12:03:03] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:06 ERROR: Error transcribing audio/20240511-120303.wav: 
+2024-05-11 12:03:08 INFO: 127.0.0.1 - - [11/May/2024 12:03:08] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:13 INFO: 127.0.0.1 - - [11/May/2024 12:03:13] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:18 INFO: 127.0.0.1 - - [11/May/2024 12:03:18] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:23 INFO: 127.0.0.1 - - [11/May/2024 12:03:23] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:28 INFO: 127.0.0.1 - - [11/May/2024 12:03:28] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:33 INFO: 127.0.0.1 - - [11/May/2024 12:03:33] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:36 INFO: Audio segment saved: audio/20240511-120335.wav
+2024-05-11 12:03:38 INFO: 127.0.0.1 - - [11/May/2024 12:03:38] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:39 ERROR: Error transcribing audio/20240511-120335.wav: 
+2024-05-11 12:03:43 INFO: 127.0.0.1 - - [11/May/2024 12:03:43] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:48 INFO: 127.0.0.1 - - [11/May/2024 12:03:48] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:53 INFO: 127.0.0.1 - - [11/May/2024 12:03:53] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:03:58 INFO: 127.0.0.1 - - [11/May/2024 12:03:58] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:03 INFO: 127.0.0.1 - - [11/May/2024 12:04:03] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:08 INFO: 127.0.0.1 - - [11/May/2024 12:04:08] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:09 INFO: Audio segment saved: audio/20240511-120409.wav
+2024-05-11 12:04:11 ERROR: Error transcribing audio/20240511-120409.wav: 
+2024-05-11 12:04:13 INFO: 127.0.0.1 - - [11/May/2024 12:04:13] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:18 INFO: 127.0.0.1 - - [11/May/2024 12:04:18] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:23 INFO: 127.0.0.1 - - [11/May/2024 12:04:23] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:28 INFO: 127.0.0.1 - - [11/May/2024 12:04:28] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:33 INFO: 127.0.0.1 - - [11/May/2024 12:04:33] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:38 INFO: 127.0.0.1 - - [11/May/2024 12:04:38] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:41 INFO: Audio segment saved: audio/20240511-120441.wav
+2024-05-11 12:04:43 INFO: 127.0.0.1 - - [11/May/2024 12:04:43] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:45 ERROR: Error transcribing audio/20240511-120441.wav: 
+2024-05-11 12:04:48 INFO: 127.0.0.1 - - [11/May/2024 12:04:48] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:53 INFO: 127.0.0.1 - - [11/May/2024 12:04:53] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:04:58 INFO: 127.0.0.1 - - [11/May/2024 12:04:58] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:03 INFO: 127.0.0.1 - - [11/May/2024 12:05:03] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:08 INFO: 127.0.0.1 - - [11/May/2024 12:05:08] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:13 INFO: 127.0.0.1 - - [11/May/2024 12:05:13] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:14 INFO: Audio segment saved: audio/20240511-120514.wav
+2024-05-11 12:05:18 ERROR: Error transcribing audio/20240511-120514.wav: 
+2024-05-11 12:05:18 INFO: 127.0.0.1 - - [11/May/2024 12:05:18] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:23 INFO: 127.0.0.1 - - [11/May/2024 12:05:23] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:28 INFO: 127.0.0.1 - - [11/May/2024 12:05:28] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:33 INFO: 127.0.0.1 - - [11/May/2024 12:05:33] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:38 INFO: 127.0.0.1 - - [11/May/2024 12:05:38] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:43 INFO: 127.0.0.1 - - [11/May/2024 12:05:43] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:48 INFO: Audio segment saved: audio/20240511-120548.wav
+2024-05-11 12:05:50 INFO: 127.0.0.1 - - [11/May/2024 12:05:50] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:05:50 ERROR: Error transcribing audio/20240511-120548.wav: 
+2024-05-11 12:06:05 INFO: 127.0.0.1 - - [11/May/2024 12:06:05] "GET /get_transcription HTTP/1.1" 200 -
+2024-05-11 12:06:20 INFO: Audio segment saved: audio/20240511-120620.wav
+2024-05-11 12:06:25 ERROR: Error transcribing audio/20240511-120620.wav: 
+2024-05-11 12:07:12 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-05-11 12:07:12 INFO:  * Restarting with stat
+2024-05-11 12:07:12 WARNING:  * Debugger is active!
+2024-05-11 12:07:12 INFO:  * Debugger PIN: 733-346-888
+2024-05-11 12:12:53 INFO: 127.0.0.1 - - [11/May/2024 12:12:53] "GET / HTTP/1.1" 200 -
+2024-05-11 12:12:54 INFO: 127.0.0.1 - - [11/May/2024 12:12:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-11 12:14:08 INFO: Audio file saved: audio/recording.webm
+2024-05-11 12:14:08 INFO: 127.0.0.1 - - [11/May/2024 12:14:08] "POST /upload HTTP/1.1" 200 -
+2024-05-11 12:17:41 INFO:  * Detected change in '/Users/sarthakdas/Documents/Projects/Baiya/Code/app.py', reloading
+2024-05-11 12:17:42 INFO:  * Restarting with stat

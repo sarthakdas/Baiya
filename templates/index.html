@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Record Audio</title>
+</head>
+<body>
+    <button onclick="startRecording()">Start Recording</button>
+    <button onclick="stopRecording()">Stop Recording</button>
+    
+    <p>Recording Length: <span id="recording-length">0</span> seconds</p>
+
+
+    <p>Ask Bhaiya: <input type="text" id="ask-bhaiya" placeholder="Type your question here..."></p>
+    <p>Answer: <textarea id="answer-box" rows="4" cols="50" readonly></textarea></p>
+
+    <!-- submit button -->
+    <button onclick="askBhaiya()">Ask Bhaiya</button>
+
+
+
+
+
+
+    <script>
+        function askBhaiya() {
+            const question = document.getElementById('ask-bhaiya').value;
+            fetch('/ask', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ question }),
+            }).then(response => response.json())
+              .then(data => {
+                  document.getElementById('answer-box').value = data.message;
+                  console.log(data.message);
+              })
+              .catch(error => console.error('Error:', error));
+        }
+
+
+        let mediaRecorder;
+        let audioChunks = [];
+        let recordingInterval;
+        let recordingLength = 0;
+
+        function startRecording() {
+            // Check for getUserMedia support
+            if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+                alert('getUserMedia is not supported in this browser.');
+                return;
+            }
+
+            navigator.mediaDevices.getUserMedia({ audio: true })
+                .then(stream => {
+                    const mediaRecorder = new MediaRecorder(stream);
+                    let audioChunks = [];
+                    let recordingLength = 0;
+                    const recordingLengthElement = document.getElementById('recording-length');
+
+                    mediaRecorder.start();
+
+                    // Event handler for collecting chunks of audio
+                    mediaRecorder.ondataavailable = event => {
+                        audioChunks.push(event.data);
+                    };
+
+                    // Initialize or reset the recording length
+                    recordingLength = 0;
+                    if (recordingLengthElement) {
+                        recordingLengthElement.textContent = recordingLength;
+                    }
+
+                    // Automatically stop and restart the recording every 30 seconds
+                    const recordingInterval = setInterval(() => {
+                        if (mediaRecorder.state === 'recording') {
+                            mediaRecorder.stop();  // This triggers the onstop event
+                        }
+                    }, 30000); // 30000 milliseconds (30 seconds)
+
+                    // Update the recording length display every second
+                    const lengthUpdateInterval = setInterval(() => {
+                        if (mediaRecorder.state === 'recording') {
+                            recordingLength++;
+                            if (recordingLengthElement) {
+                                recordingLengthElement.textContent = recordingLength;
+                            }
+                        }
+                    }, 1000);
+
+                    // When the recorder stops, start it again and send data to the server
+                    mediaRecorder.onstop = () => {
+                        const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+                        const formData = new FormData();
+                        formData.append('audio_data', audioBlob);
+                        fetch('/upload', {
+                            method: 'POST',
+                            body: formData,
+                        })
+                        .then(response => response.json())
+                        .then(data => console.log(data.message));
+
+                        audioChunks = []; // Clear the chunks for the next recording
+                        mediaRecorder.start(); // Restart recording immediately
+                    };
+
+                }).catch(error => {
+                    console.error('Error accessing media devices.', error);
+                });
+        }
+
+
+        function stopRecording() {
+            clearInterval(recordingInterval);
+            mediaRecorder.stop(); // This will also trigger sending the last segment
+            // stop the timer and reset the recording length
+            recordingLength = 0;
+            document.getElementById('recording-length').textContent = recordingLength;
+        }
+    </script>
+</body>
+</html>

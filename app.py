@@ -52,8 +52,8 @@ def upload():
     if audio_file:
         filename = datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + '.wav'
         save_path = os.path.join('recordings', filename)
-        with open(save_path, 'wb') as f:
-            f.write(audio_file.read())
+        # with open(save_path, 'wb') as f:
+            # f.write(audio_file.read())
 
 
         transcript = transcriber.transcribe(save_path)
